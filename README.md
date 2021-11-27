@@ -1,5 +1,5 @@
 # Sorting
-Seeing if I can write a sorting algorithm without googling how to. Going to sort a list rather than a dataframe (I think)
+Seeing if I can write a sorting algorithm without googling how to.
 
 ## Plan
 + ~~see if I can write a bubble sort~~
@@ -17,3 +17,4 @@ The file "Initial Sorting Tests.ipynb" contains my attempts at making and testin
 + RKA_Bubblesort = my bubble sort
 + SO_Bubble = a better version of bubble sort from stack overflow
 + SO_Sort = a sorting method from stack overflow
++ RKA_Bubblesort2 = a slightly improved version of my bubble sort
