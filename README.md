@@ -4,6 +4,7 @@ Seeing if I can write a sorting algorithm without googling how to.
 ## Plan
 + ~~see if I can write a bubble sort~~
 + try to improve on that
+  + I've sort of done this
 + ~~run comparisons of my algorithms and the standard sorting algorithm (and maybe some randome ones on the internet)~~
   + ~~generate random list of numbers of a given length~~
   + ~~time how long it takes to sort~~
