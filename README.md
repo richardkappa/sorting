@@ -4,10 +4,10 @@ Seeing if I can write a sorting algorithm without googling how to. Going to sort
 ## Plan
 + ~~see if I can write a bubble sort~~
 + try to improve on that
-+ run comparisons of my algorithms and the standard sorting algorithm (and maybe some randome ones on the internet)
-  + generate random list of numbers of a given length
-  + time how long it takes to sort
-  + graph/table outputs
++ ~~run comparisons of my algorithms and the standard sorting algorithm (and maybe some randome ones on the internet)~~
+  + ~~generate random list of numbers of a given length~~
+  + ~~time how long it takes to sort~~
+  + ~~graph/table outputs~~
 
 ## Layout
 The file "Initial Sorting Tests.ipynb" contains my attempts at making and testing sorting algorithms in python and then testing them
@@ -15,3 +15,5 @@ The file "Initial Sorting Tests.ipynb" contains my attempts at making and testin
 ## Functions
 + find_biggest = compares two numbers and returns the bigger one
 + RKA_Bubblesort = my bubble sort
++ SO_Bubble = a better version of bubble sort from stack overflow
++ SO_Sort = a sorting method from stack overflow
